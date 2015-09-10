@@ -1,7 +1,7 @@
 # ARTG 2260  PROGRAMMING BASICS
 
 Northeastern University: Undergraduate College of Arts, Media & Design  
-_Fall 2015,  R6-930PM @  Ryder Hall Room 324_
+_Fall 2015,  R6-930PM @  Ryder Hall Room 324_  
 _Office hours (virtual): Wed 4-6pm, Thursday 4-6pm_
 
 Instructor: David Nunez (prounounced "noon-yez") - david@davidnunez.com 
