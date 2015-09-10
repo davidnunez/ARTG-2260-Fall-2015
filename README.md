@@ -1,10 +1,13 @@
 # ARTG 2260  PROGRAMMING BASICS
 
 Northeastern University: Undergraduate College of Arts, Media & Design  
-_Fall 2015,  R6-930PM @  Ryder Hall Room 324_  
-_Office hours (virtual): Wed 4-6pm, Thursday 4-6pm_
 
-Instructor: David Nunez (prounounced "noon-yez") - david@davidnunez.com 
+_Fall 2015,  R6-930PM @  Ryder Hall Room 324_  
+_Office hours: Wed 4-6pm  (virtual), Thursday 4-545pm  (Ryder Hall 439)_
+
+Instructor: David Nunez (prounounced "noon-yez") 
+
+david@davidnunez.com 
 
 - [Schedule](#schedule)
 
@@ -117,8 +120,8 @@ _Topics Subject to Change_
 | Date | Topic |
 |----|---|
 | sept 10 |  [Introduction, Getting Started, Drawing](./01-introduction-getting-started-drawing) |
-| sept 17 | Animation |
-| sept 24 | Interactivity |
+| sept 17 | Interactivity, Loops, Conditionals |
+| sept 24 | Animation |
 | oct 1 | More about Functions |
 | oct 8 | Objects |
 | oct 15 | Data / File I/O  |
@@ -145,3 +148,24 @@ If you don’t have a laptop and purchasing one now presents a hardship, or if y
 # Disabilities statement
 
 Northeastern University strives to provide academic accommodations to students with documented disabilities. Accommodations are approved by the Disability Resource Center at 20 Dodge Hall. Students need to register with the DRC and bring their instructors a letter from that office stating approved accommodations. If you will be requesting accommodations in this class, please let the instructor know as soon as possible to avoid delays. Visit http://www.drc.neu.edu for more information.
+
+-----
+
+## Resources
+
+### Example works
+
+- [OpenFrameworks Demo Reel](https://vimeo.com/74124094)
+- [Weird Faces](http://www.mokafolio.de/works/Weird-Faces)
+- [Nervous Systems](http://n-e-r-v-o-u-s.com/)
+- [Processing](https://processing.org/exhibition/)
+- [P5.js Gallery](http://p5js.org/gallery/)
+- [Casey Reas](http://reas.com/)
+- [Ben Fry](http://benfry.com/projects/)
+- [Robert Hodgin](http://roberthodgin.com/)
+- [Andrew Sorensen OSCON Demo](https://www.youtube.com/watch?v=yY1FSsUV-8c&feature=youtu.be&t=194)
+
+### References
+
+- [Eloquent Javascript](http://eloquentjavascript.net/)
+- P5.js API reference [http://p5js.org/reference/](http://p5js.org/reference/)

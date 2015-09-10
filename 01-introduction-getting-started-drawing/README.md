@@ -3,10 +3,6 @@
 
 [Homework](#homework)
 
-## Resources
-
-- P5.js API reference [http://p5js.org/reference/](http://p5js.org/reference/)
-
 ### Homework
 
 **Due September 16, 11:59PM**
@@ -38,6 +34,7 @@
     - Experience in Programming (if any)
     - A couple sentences about what you are interested in vis a vis art & design, generally (doesn't have to be related to programming at all), and iff you have a portfolio or other way I can see your work, please include a link (I'm always impressed by what students are doing)!
     - A couple sentences about what you want to get out of this course.
+    - How was the first class for you?  Too fast?  Too slow? Not what you were expecting? Help me make this semester useful for you.
 
 1. Get setup with course infrastructure:
 
