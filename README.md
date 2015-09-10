@@ -44,7 +44,7 @@ Be sure to bring your personal laptop, paper, and pencil. Obviously we will be c
 
 ## Homework Activities
 
-Learning to program requires serious dedication and a lot of time designing, coding, testing, debugging, and revising. Expect to spend a considerable amount of time outside of class working on your programs. Programming is time consuming and mysterious bugs can send you on a tailspin at any moment, thus, if you begin working on a program immediately after it's assigned, you'll have enough time to seek help in the event you get stuck. 
+Learning to program requires serious dedication and a lot of time designing, coding, testing, debugging, and revising. Expect to spend a considerable amount of time outside of class working on your programs. Programming is time consuming and mysterious bugs can send you on a tailspin at any moment, thus, if you begin working on a program immediately after it's assigned, you'll have enough time to seek help in the event you get stuck.
 
 **START EARLY. START EARLY. START EARLY. START EARLY. START EARLY.** When you are pulling the all-nighter before an assignment is due because you waited until then to start, remember, with a cold, lonely sense of regret, that I told you five times to **START EARLY** (six times now!).  It is always better to submit non-functional code that includes pseudo-code than nothing at all.
 
@@ -94,7 +94,7 @@ Three unexcused absences will result in a failing grade, as will chronic latenes
 
 ## Grades
 
-Within 14 days after an assignment is due, grades will be posted. I will place a grading sheet in the assignment cloud folder. If you have any questions about how your grade was determined, don’t hesitate to make an appointment.
+Within 14 days after an assignment is due, grades will be posted.  If you have any questions about how your grade was determined, don't hesitate to make an appointment.
 
 The overall grade you earn in this course will be based on the following, with adjustments made for attendance as described above:
 
