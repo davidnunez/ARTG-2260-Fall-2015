@@ -3,7 +3,7 @@
 Northeastern University: Undergraduate College of Arts, Media & Design  
 
 _Fall 2015,  R6-930PM @  Ryder Hall Room 324_  
-_Office hours: Wed 4-6pm  (virtual), Thursday 4-545pm  (Ryder Hall 439)_  
+_Office hours: Wed 4-6pm  (virtual), Thursday 4-545pm  (Ryder Hall 439 or 324), or by appointment_  
 _Course URL: [https://github.com/davidnunez/ARTG-2260-Fall-2015](https://github.com/davidnunez/ARTG-2260-Fall-2015)_
 
 Instructor: David Nuñez (prounounced "noon-yez") 
