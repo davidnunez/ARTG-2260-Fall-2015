@@ -88,7 +88,7 @@ Feel free to bring snacks to class, but if they are noisy, smelly, or otherwise 
 
 ## Attendance Policy
 
-You are expected to attend every class. Out of respect for myself and your fellow classmates, you are expected to arrive on time for each class.  I will intentionally wait 5 minutes after the class start time to begin.
+You are expected to attend every class. Out of respect for myself and your fellow classmates, you are expected to arrive on time for each class.  I will intentionally wait 5 minutes after the class start time to begin the session to give people a couple extra minutes of buffer.
 
 Three unexcused absences will result in a failing grade, as will chronic lateness.  If you are going to be absent or late, please, at the very least, email me.  Per University policy, excused absences must be documented.  Except for extreme emergencies (you are in an ambulance), do not expect to receive an excused absence if you email me during or after class.
 
