@@ -35,7 +35,7 @@
     - Your Name
     - Year & Field of Study
     - Experience in Programming (if any)
-    - A couple sentences about what you are interested in vis a vis art & design, generally (doesn't have to be related to programming at all).
+    - A couple sentences about what you are interested in vis a vis art & design, generally (doesn't have to be related to programming at all), and iff you have a portfolio or other way I can see your work, please include a link (I'm always impressed by what students are doing)!
     - A couple sentences about what you want to get out of this course.
 
 1. Get setup with course infrastructure:
