@@ -71,7 +71,7 @@
         - For pad and paper sketches, take a photo or scan and add them to the folder.
         - Include any links to code that is not your own. Give credit to the author. Describe how you used this code or how you changed this code.
     - Explorations:
-        <!-- 1. **Author a program that shows me you understand how variables, while & for loops, and random numbers work. Output should go to the console.** -->
+    
         2. **Create a program that draws your self-portrait (or a portrait of a friend or pet or famous person).**
         3. **Create another program that iterates on the first program and plays with aesthetics & design just by making small changes.  (For example, by altering parameters in your drawing code, can you create variations on the style and representation of your image?   How does layering work (i.e. what happens when you draw things on top of each other, does the order of code matter)?)**
         4. **Bonus: Can you draw something that looks organic using only straight lines?**
