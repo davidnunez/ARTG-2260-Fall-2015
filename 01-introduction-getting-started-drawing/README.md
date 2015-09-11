@@ -18,11 +18,8 @@
 + rectMode & ellipseMode
 + Variables
 + Comments & psuedo-code
-<!-- + Loops (while & for)
- -->
 + Random Numbers
-<!-- + Console
- -->
+
 ------
 
 #### Homework Tasks
