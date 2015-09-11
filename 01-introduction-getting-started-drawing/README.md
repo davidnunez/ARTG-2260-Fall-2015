@@ -15,9 +15,9 @@
 + The Canvas & Background
 + Coordinate System
 + Primitives (shapes, points, lines, text)
-+ rectMode & ellipseMode
-+ Variables
-+ Comments & psuedo-code
++ <strike>rectMode & ellipseMode</strike> (Next week!)
++ <strike>Variables</strike> (Next Week!)
++ Comments & <strike>psuedo-code</strike> (Next Week!)
 + Random Numbers
 
 ------
