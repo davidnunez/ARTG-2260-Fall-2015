@@ -121,8 +121,8 @@ _Topics Subject to Change_
 | Date | Topic |
 |----|---|
 | sept 10 |  [Introduction, Getting Started, Drawing](./01-introduction-getting-started-drawing) |
-| sept 17 | Interactivity, Loops, Conditionals |
-| sept 24 | Animation |
+| sept 17 | Interactivity Pt 1, Variables, Loops, Conditionals |
+| sept 24 | Interactivity Pt 2. Animation |
 | oct 1 | More about Functions |
 | oct 8 | Objects |
 | oct 15 | Data / File I/O  |
