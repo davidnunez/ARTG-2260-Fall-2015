@@ -69,9 +69,9 @@
         - Include any links to code that is not your own. Give credit to the author. Describe how you used this code or how you changed this code.
     - Explorations:
     
-        2. **Create a program that draws your self-portrait (or a portrait of a friend or pet or famous person).**
-        3. **Create another program that iterates on the first program and plays with aesthetics & design just by making small changes.  (For example, by altering parameters in your drawing code, can you create variations on the style and representation of your image?   How does layering work (i.e. what happens when you draw things on top of each other, does the order of code matter)?)**
-        4. **Bonus: Can you draw something that looks organic using only straight lines?**
+        - 01: **Create a program that draws your self-portrait (or a portrait of a friend or pet or famous person).**
+        - 02: **Create another program that iterates on the first program and plays with aesthetics & design just by making small changes.  (For example, by altering parameters in your drawing code, can you create variations on the style and representation of your image?   How does layering work (i.e. what happens when you draw things on top of each other, does the order of code matter)?)**
+        - 03: **Bonus: Can you draw something that looks organic using only straight lines?**
 
 3. Email me (david@davidnunez.com) when you are done with your explorations and they are in Dropbox.  I will consider the timestamp on that email as the "submitted time." **Even if you only submit a paragraph saying 'I have no idea what I'm doing,' that's much better than submitting nothing at all.**  In your email, write (at least) one question or topic related to the homework you'd like to hear more about in class. (ex. what was the trickiest part; was there anything especially frustrating; was your curiosity piqued about a particular subject we didn't cover in class)?
 
