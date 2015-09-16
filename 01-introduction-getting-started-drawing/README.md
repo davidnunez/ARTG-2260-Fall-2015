@@ -5,7 +5,8 @@
 
 ### Homework 01
 
-**Due September 16, 11:59PM**
+<strike>Due September 16, 11:59PM</strike>  
+**Due September 17, 11:59PM**
 
 ------
 ####  Concepts to think about 
