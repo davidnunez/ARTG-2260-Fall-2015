@@ -52,7 +52,7 @@
     
     - Explorations:
         - 01: **Create a program that makes a repeating pattern on the screen (grids, wallpapers, etc)**
-        - 02: **Create a program that makes an evolving pattern on the screen (starts on one side as one color and gradually changes to another color)
+        - 02: **Create a program that makes an evolving pattern on the screen (starts on one side as one color and gradually changes to another color)**
         - 03: **Bonus: Make a spiraling pattern on screen**
 
 3. Email me (david@davidnunez.com) when you are done with your explorations and they are in Dropbox.  I will consider the timestamp on that email as the "submitted time." **Even if you only submit a paragraph saying 'I have no idea what I'm doing,' that's much better than submitting nothing at all.**  In your email, write (at least) one question or topic related to the homework you'd like to hear more about in class. (ex. what was the trickiest part; was there anything especially frustrating; was your curiosity piqued about a particular subject we didn't cover in class)?
