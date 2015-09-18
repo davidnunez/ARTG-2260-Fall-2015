@@ -1,5 +1,5 @@
 # ARTG 2260  PROGRAMMING BASICS
-## Introduction, Getting Started, Drawing
+## Variables, Loops, Conditionals
 
 [Homework](#homework)
 
@@ -21,12 +21,12 @@
 
 #### Homework Tasks
 
+1. Find & email me a couple examples of "geneartive art" you like; "computational art," "algorithmic art" are terms for which google will help you.  
 
 2. Programming Explorations:
 
     - Remember: The point of these exercises is to help you practice programming; I'm looking for curiosity, exploration, and play.  I'm not expecting perfection.
     - Put your code in the appropriate sub-folders in your Dropbox folder:
-        ![](./dropbox-example.jpg)
     - At the top of each `sketch.js`, put a comment block like this:
 
                 // -----------
@@ -52,7 +52,7 @@
     
     - Explorations:
         - 01: **Create a program that makes a repeating pattern on the screen (grids, wallpapers, etc)**
-        - 02: **Create a program that makes an evolving pattern on the screen (starts on one side as one color and gradually changes to another color)
+        - 02: **Create a program that makes an evolving pattern on the screen (starts on one side as one color and gradually changes to another color)**
         - 03: **Bonus: Make a spiraling pattern on screen**
 
 3. Email me (david@davidnunez.com) when you are done with your explorations and they are in Dropbox.  I will consider the timestamp on that email as the "submitted time." **Even if you only submit a paragraph saying 'I have no idea what I'm doing,' that's much better than submitting nothing at all.**  In your email, write (at least) one question or topic related to the homework you'd like to hear more about in class. (ex. what was the trickiest part; was there anything especially frustrating; was your curiosity piqued about a particular subject we didn't cover in class)?
