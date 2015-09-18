@@ -1,5 +1,5 @@
 # ARTG 2260  PROGRAMMING BASICS
-## Introduction, Getting Started, Drawing
+## Variables, Loops, Conditionals
 
 [Homework](#homework)
 
