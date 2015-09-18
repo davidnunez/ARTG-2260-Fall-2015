@@ -21,6 +21,7 @@
 
 #### Homework Tasks
 
+1. Find & email me a couple examples of "geneartive art" you like; "computational art," "algorithmic art" are terms for which google will help you.  
 
 2. Programming Explorations:
 
