@@ -27,7 +27,6 @@
 
     - Remember: The point of these exercises is to help you practice programming; I'm looking for curiosity, exploration, and play.  I'm not expecting perfection.
     - Put your code in the appropriate sub-folders in your Dropbox folder:
-        ![](./dropbox-example.jpg)
     - At the top of each `sketch.js`, put a comment block like this:
 
                 // -----------
