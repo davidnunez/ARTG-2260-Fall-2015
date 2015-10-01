@@ -1,21 +1,20 @@
 # ARTG 2260  PROGRAMMING BASICS
-## Variables, Loops, Conditionals
+## Interactivity
 
 [Homework](#homework)
 
 ### Homework 02
 
-**Due September 24, 11:59PM**
+**<strike>Due September 24, 11:59PM</strike>**
+Due Oct 1, 11:59 PM
 
 ------
 ####  Concepts to think about 
 
-+ Values (numbers, strings)
-+ Arithmetic
-+ Conditionals (if, then, switch)
-+ While loops
-+ Do Loops
-
++ mouse events
++ keyboard events
++ for loops
++ functions
 
 ------
 
