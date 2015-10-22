@@ -118,23 +118,23 @@ The general criteria for grades is as follows:
 
 _Topics Subject to Change_
 
-| Date | Topic |
-|----|---|
+| Date | Topic |  |
+|----|---|---|
 | sept 10 |  [Introduction, Getting Started, Drawing](./01-introduction-getting-started-drawing) |
-| sept 17 | Interactivity Pt 1, Variables, Loops, Conditionals |
-| sept 24 | Interactivity Pt 2. Animation |
-| oct 1 | More about Functions |
-| oct 8 | Objects |
-| oct 15 | Data / File I/O  |
-| oct 22 |  Lab Day |
-| oct 29 | Document Object Model |
-| nov 5 |  Sound / Video |
-| nov 12 | Data Visualization |
-| nov 19 | Mobile / Sockets |
+| sept 17 | Interactivity Pt 1, Variables, Loops, Conditionals | Exploration 01 Due (11:59pm) |
+| sept 24 | Interactivity Pt 2. Animation | Exploration 02 Due (11:59pm) |
+| oct 1 | More about Functions, Arrays, Objects pt 1 | Exploration 03 Due (11:59pm) |
+| oct 8 | _Work at Home week_ |
+| oct 15 | Images / Sounds |
+| oct 22 |  **Lab Day** | Final Project Verbal Proposal in class |
+| oct 29 | Data / File I/O / Document Object Model | Exploration 04 due (11:59pm) |
+| nov 5 |  **VIRTUAL CLASS**: Video / Transformations / Mega-Review |
+| nov 12 | Data Visualization / APIs | Exploration 05 due (11:59pm) |
+| nov 19 | Mobile / Sockets / 3d | Exploration 06 due, Written Final Project Proposal Due (11:59pm) |
 | nov 26 | _THANKSGIVING BREAK_ |
-| dec 3 | Lab Day |
-| dec 10 | Lab Day |
-| dec 14 | FINALS WEEK (Final project Presentations) |
+| dec 3 | **Lab Day** |
+| dec 10 | **Lab Day** |
+| dec 14 | FINALS WEEK (Final project Presentations) | **Class on 12/14**, Project writeups due 12/17 (11:59pm) |
 
 # LAPTOP AND SOFTWARE REQUIREMENTS
 
