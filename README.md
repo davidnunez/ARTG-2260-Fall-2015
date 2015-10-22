@@ -130,7 +130,7 @@ _Topics Subject to Change_
 | oct 29 | Data / File I/O / Document Object Model | Exploration 04 due (11:59pm) |
 | nov 5 |  **VIRTUAL CLASS**: Video / Transformations / Mega-Review |
 | nov 12 | Data Visualization / APIs | Exploration 05 due (11:59pm) |
-| nov 19 | Mobile / Sockets / 3d | Exploration 06 due, Written Final Project Proposal Due (11:59pm) |
+| nov 19 | Bonus Topics: ex. Mobile / Sockets / 3D | Exploration 06 due, Written Final Project Proposal Due (11:59pm) |
 | nov 26 | _THANKSGIVING BREAK_ |
 | dec 3 | **Lab Day** |
 | dec 10 | **Lab Day** |
