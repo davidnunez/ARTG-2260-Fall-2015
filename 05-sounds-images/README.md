@@ -6,6 +6,7 @@
 ### Homework 04
 
 <strike>**Due Oct 22, 11:59 PM**</strike>
+
 **Due Oct 29, 11:59 PM**
 
 ------
