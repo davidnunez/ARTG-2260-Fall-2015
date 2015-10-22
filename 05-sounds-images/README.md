@@ -3,18 +3,16 @@
 
 [Homework](#homework)
 
-### Homework 03
+### Homework 04
 
-**<strike>Due September 24, 11:59PM</strike>**
-Due Oct 1, 11:59 PM
+**Due Oct 22, 11:59 PM**
 
 ------
 ####  Concepts to think about 
 
-+ mouse events
-+ keyboard events
-+ for loops
-+ functions
++ including images in your program
++ including videos in your program
++ including and analyzing sounds
 
 ------
 
@@ -48,10 +46,7 @@ Due Oct 1, 11:59 PM
         - Include any links to code that is not your own. Give credit to the author. Describe how you used this code or how you changed this code.
     
     - Explorations:
-        - 01: **Create a drawing machine!  Make a program that draws something when the user interacts with the canvas.**
-        - 02: **Add an "erase" button that clears the screen.**
-        - 03: **Add 'modes' to your drawing machine... make it so that when a user taps various keys, the style of what is drawn changes. In your program, use functions to compartmentalize your drawing styles.**
-        - 04: **Bonus: Make your drawing machine run in a browser on a smart phone; use the accelerometer to allow user interaction (ex. user shake phone to erase the drawing.**
+        - 01: **Make an interactive music visualizer program! Ex. Draw shapes on screen based on music and have a user's interaction affect the way they draw.**
 
 3. Email me (david@davidnunez.com) when you are done with your explorations and they are in Dropbox.  I will consider the timestamp on that email as the "submitted time." **Even if you only submit a paragraph saying 'I have no idea what I'm doing,' that's much better than submitting nothing at all.**  In your email, write (at least) one question or topic related to the homework you'd like to hear more about in class. (ex. what was the trickiest part; was there anything especially frustrating; was your curiosity piqued about a particular subject we didn't cover in class)?
 
