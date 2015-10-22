@@ -1,12 +1,12 @@
 # ARTG 2260  PROGRAMMING BASICS
-## Interactivity
+## Sounds and Images
 
 [Homework](#homework)
 
 ### Homework 04
 
-**Due Oct 22, 11:59 PM**
-
+<strike>**Due Oct 22, 11:59 PM**</strike>
+**Due Oct 29, 11:59 PM**
 ------
 ####  Concepts to think about 
 
