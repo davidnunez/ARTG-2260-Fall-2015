@@ -44,7 +44,7 @@
         - Include any links to code that is not your own. Give credit to the author. Describe how you used this code or how you changed this code.
 
     - Explorations:
-        - 01: **Create a p5 sketch (using p5.dom) that introduces an HTML form into one of your previous homework (or something brand new if you are ambitions).  For example, you can iterate on your drawing machine from exploration 03. Give your user some more options using things like buttons and dropdown menus to influence the generative art created with your drawing machine.**
+        - 01: **Create a p5 sketch (using p5.dom) that introduces an HTML form into one of your previous homework (or something brand new if you are ambitious).  For example, you can iterate on your drawing machine from exploration 03. Give your user some more options using things like buttons and dropdown menus to influence the generative art created with your drawing machine.**
 
 3. Email me (david@davidnunez.com) when you are done with your explorations and they are in Dropbox.  I will consider the timestamp on that email as the "submitted time." **Even if you only submit a paragraph saying 'I have no idea what I'm doing,' that's much better than submitting nothing at all.**  In your email, write (at least) one question or topic related to the homework you'd like to hear more about in class. (ex. what was the trickiest part; was there anything especially frustrating; was your curiosity piqued about a particular subject we didn't cover in class)?
 
